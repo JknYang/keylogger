@@ -1,2 +1,2 @@
 # keylogger
-KeyLogger that registers all the keys that the user presses and uses a Caesar Cipher to encode/decode information
+KeyLogger that registers all the keys that the user presses and processes them through a hash function that further records the keys into an encrypted Log.txt file and an Unencrypted UnEncLog.txt.
