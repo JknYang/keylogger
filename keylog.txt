@@ -1,0 +1,1 @@
+[Key.shift][Key.esc][Key.shift][Key.esc][Key.esc][Key.esc]/
